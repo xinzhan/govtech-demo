@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--govtech-demo--xinzhan.hlx.page/
+- Live: https://main--govtech-demo--xinzhan.aem.live/
 
 ## Documentation
 
