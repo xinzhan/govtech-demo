@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/IL-SG1/:/",
-    "/content/IL-SG1/configuration:/.helix/config.json",
-    "/content/IL-SG1/metadata:/metadata.json"
+    "/content/govtech/:/",
+    "/content/govtech/configuration:/.helix/config.json",
+    "/content/govtech/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/IL-SG1/"
+    "/content/govtech/"
   ]
 }
